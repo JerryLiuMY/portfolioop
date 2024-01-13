@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__doc__/
+__pycache__
+.ipynb_checkpoints
+*.pyc
+exp_jupyter/*.ipynb
+plots.ipynb
+test.ipynb

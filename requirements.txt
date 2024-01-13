@@ -1,0 +1,35 @@
+tqdm==4.48.2
+numpy==1.19.1
+pandas==1.1.0
+scikit-learn==0.23.2
+matplotlib==3.3.1
+seaborn==0.11.0
+pandas-datareader
+timeout-decorator
+
+# modelling tools
+scipy
+mystic==0.3.6
+nlopt==2.6.2
+cvxpy  # dccp
+pyomo==5.7.1
+gekko==0.2.8
+PySCIPOpt==3.0.3
+
+
+# archive
+# pulp==2.3
+# ortools==7.8.7959
+
+# solvers
+cvxopt==1.2.5
+pyscipopt==3.0.3
+Mosek==9.2.21
+xpress==8.10.1
+# ampl bonmin
+# ampl couenne
+# brew install coin-or-tools/coinor/cbc
+# conda install -c gurobi gurobi
+# gurobipy
+# grbgetkey
+# SCIP: SCIP + PySCIPOpt
